@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/.idea.OnlineJudgeJavaSubmissionHelper.iml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\002_计算机开发\二猫工作室\Windows研究中心\二猫文件监控\OnlineJudgeJavaSubmissionHelper\.idea\.idea.OnlineJudgeJavaSubmissionHelper\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
